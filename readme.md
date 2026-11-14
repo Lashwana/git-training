@@ -3,3 +3,4 @@
 
 Je commence à apprendre Git et GitHub.
 Je maîtrise progressivement Git et les branches.
+Apprentissage de Git : synchronisation avec GitHub.
